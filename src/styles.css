@@ -1,0 +1,20 @@
+body {
+  background-color: gold;
+  background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/03/Fondos-de-pantalla-espaciales-34.jpg?quality=50&strip=all&ssl=1);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.avatarpro {
+  float: center;
+  width: 40%;
+  height: 45%;
+}
+.Text {
+  background-color: crimson;
+  text-align: left;
+  width: 70%;
+  border-radius: 10px;
+}
